@@ -1,0 +1,5 @@
+{
+  "name": "Smart Bookmark AI Manager",
+  "description": "A high-performance bookmark manager with AI-powered link analysis, real-time cross-tab synchronization, and secure mock Google authentication.",
+  "requestFramePermissions": []
+}
